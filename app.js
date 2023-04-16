@@ -1,6 +1,6 @@
 const express = require('express');
 const ejs= require("ejs");
-const PythonShell = require('python-shell');
+const {PythonShell} = require('python-shell');
 
 
 const app=express();

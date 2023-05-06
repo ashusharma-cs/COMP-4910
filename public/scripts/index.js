@@ -1,5 +1,5 @@
 
-const url = "http://localhost:3000/service";
+const url = "https://fraserhealthdataviztool.onrender.com/service";
 
 const updateChart = () => {
 
